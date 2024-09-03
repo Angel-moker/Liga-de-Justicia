@@ -5,3 +5,5 @@
 3. Hell's Kitchen
 3. Huancavelica
 4. Huancayo
+5. Lima
+6. Ica
