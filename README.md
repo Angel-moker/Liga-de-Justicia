@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 ## One Piece
 -Luffi
 -Nami
+-Zoro
+-Ussop
